@@ -33,7 +33,7 @@ To get started with Pioneer Macro, follow these steps:
    Browse through the `strategies` directory to find pre-built macroeconomics-based trading strategies. Each strategy comes with documentation to help you understand its logic and implementation.
 
 4. **Contribute:**
-   If you have ideas for improvements or new strategies, feel free to contribute! Check out the contribution guidelines in the `CONTRIBUTING.md` file.
+   If you have ideas for improvements or new strategies, feel free to contribute! Check out the contribution guidelines in the [CONTRIBUTING.MD](CONTRIBUTING.md)file.
 
 ## Documentation
 
