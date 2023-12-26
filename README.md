@@ -1,4 +1,4 @@
-# Macro: Open-Source Macroeconomics Based Trading Strategies
+# Macro: Semi-Open-Source Macroeconomics Based Trading Strategies
 
 Welcome to the Pioneer Macro repository! This project is dedicated to providing a set of open-source macroeconomics-based trading strategies for the financial markets. Whether you're a seasoned trader, a financial analyst, or someone interested in exploring the intersection of macroeconomics and trading, this repository aims to be a valuable resource for you.
 
