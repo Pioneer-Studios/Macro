@@ -2,6 +2,10 @@
 
 Welcome to the Pioneer Macro repository! This project is dedicated to providing a set of open-source macroeconomics-based trading strategies for the financial markets. Whether you're a seasoned trader, a financial analyst, or someone interested in exploring the intersection of macroeconomics and trading, this repository aims to be a valuable resource for you.
 
+## What is Semi-Open-Source?
+
+This repository and the Pioneer codebase is open-source, for a given period of time. It is designed to aid in the  If succesful, these algorithms could be useful for the individual retail algotrader. Additionally, we accept and even encourage all invited developers, quants, scientists, redditors, and more to improve the strategies. These strategies serve as a codebase to start and build off of. If you would like to submit upgraded versions or your own strategies to the codebase, please do!
+
 ## Overview
 
 Pioneer Macro is designed to leverage macroeconomic indicators and principles to create trading strategies that can navigate the complexities of the financial markets. The repository includes a collection of algorithms, scripts, and tools that can be used to implement and test these strategies.
